@@ -1,2 +1,12 @@
 title: Bodkin
 theme: minima
+description: Bodkin is a needlepoint app for iPad.
+plugins:
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/link-card.png
+twitter:
+  card: summary_large_image
