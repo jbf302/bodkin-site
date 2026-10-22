@@ -29,8 +29,8 @@ Questions, bugs, or ideas: [bodkin.support@gmail.com](mailto:bodkin.support@gmai
 
 **Do I need an Apple Pencil?** No. You can stitch with a fingertip on iPhone and iPad. On iPad, choose My Finger on the welcome screen. Apple Pencil takes over as soon as it touches the canvas, and fingers pan and zoom.
 
-**Where are a canvas's settings?** Open a canvas and tap the sliders button at the top. Hand-Stitched mode, Sounds and Stay in the Lines are there.
+**Where are a canvas's settings?** Open a canvas and tap the sliders button at the top. Hand-Stitched mode, Even Tension, Sounds and Haptics are there.
 
-**Accessibility:** if anything in Bodkin is hard to use with VoiceOver, larger text or other accessibility settings, please email us. Better support is on the way.
+**Accessibility:** Bodkin works with VoiceOver (including stitching), Voice Control, Dynamic Type, Increase Contrast, Reduce Motion and Smart Invert. If something gets in your way, please email us.
 
 See the [privacy policy]({{ '/privacy/' | relative_url }}).

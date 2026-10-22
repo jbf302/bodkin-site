@@ -32,9 +32,11 @@ description: Bodkin is a needlepoint app for iPhone and iPad. Stitch with a fing
 <div class="feature"><h3>Stitch your way</h3><p>Stitch with a fingertip on iPhone or iPad. On iPad, Apple Pencil takes over the stitching as soon as it touches the canvas: hover shows the hole you're aiming for, and double-tap switches between needle and unpick.</p></div>
 <div class="feature"><h3>Start anywhere</h3><p>Pick a painted canvas, turn a photo or a stitch chart into a pattern, or design on a blank mesh in 10, 13 or 18 count.</p></div>
 <div class="feature"><h3>Real threads</h3><p>Photo colors are matched to actual DMC threads. Mark the skeins in My Stash and shopping lists ask only for what's missing.</p></div>
-<div class="feature"><h3>Stitches that feel hand-made</h3><p>Tent, cross, gobelin and French knot are free. Bargello, brick, mosaic, Scotch and Smyrna come with the optional Stitch Pack. In Hand-Stitched mode your pull sets each stitch's tension.</p></div>
+<div class="feature"><h3>Stitches that feel hand-made</h3><p>Tent, cross, gobelin and French knot are free. In Hand-Stitched mode your pull sets each stitch's tension, and Even Tension keeps things neat while you get the feel of it.</p></div>
 <div class="feature"><h3>Stitch it for real</h3><p>Get a shopping list with DMC and Anchor numbers, canvas and stretcher bar sizes, plus a printable symbol chart.</p></div>
 <div class="feature"><h3>New to needlepoint?</h3><p>A two-minute practice lesson and a short primer on the craft, with a practice swatch for every stitch.</p></div>
+<div class="feature"><h3>Folds with you</h3><p>On iPhone Duo, stitch on either screen in any orientation. Half-fold it like a book and the controls sit on one side, the canvas on the other.</p></div>
+<div class="feature"><h3>Made for everyone</h3><p>VoiceOver can stitch the canvas and tell you when a color is finished. Voice Control, Dynamic Type, Increase Contrast, Reduce Motion and Smart Invert are supported throughout.</p></div>
 </div>
 
 ## Questions
@@ -45,4 +47,4 @@ description: Bodkin is a needlepoint app for iPhone and iPad. Stitch with a fing
 <dt>Do I need an account?</dt><dd>No. Your projects stay on your device, and the app doesn't collect any data or show ads. See the <a href="{{ '/privacy/' | relative_url }}">privacy policy</a>.</dd>
 </dl>
 
-Press or creator? Grab images and video from the [press kit]({{ '/press/' | relative_url }}). Need help? See [support]({{ '/support/' | relative_url }}).
+What's in the latest version? See [what's new]({{ '/whats-new/' | relative_url }}). Press or creator? Grab images and video from the [press kit]({{ '/press/' | relative_url }}). Need help? See [support]({{ '/support/' | relative_url }}).

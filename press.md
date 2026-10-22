@@ -12,7 +12,7 @@ Feel free to use these when writing about Bodkin. Contact: [bodkin.support@gmail
 
 **Short:** Bodkin lets you stitch painted canvases, photos or your own designs with a fingertip or Apple Pencil. Stitches look like real wool, colors match actual DMC threads, and when you finish you can get a shopping list and printable chart to stitch the design for real. It has no accounts and collects no data.
 
-**Facts:** iPhone and iPad · free, with two optional one-time purchases: Bodkin Pro ($14.99 US) and the Stitch Pack ($4.99 US), no subscription · a growing collection of free painted canvases · 10, 13 and 18 mesh · stitch types: tent, cross, gobelin, French knot, bargello, brick, mosaic, Scotch, Smyrna · no account, no ads, no data collected.
+**Facts:** iPhone and iPad (including iPhone Duo) · free, with two optional one-time purchases: Bodkin Pro ($14.99 US) and the Stitch Pack ($4.99 US), no subscription · a growing collection of free painted canvases · 10, 13 and 18 mesh · stitch types: tent, cross, gobelin, French knot, bargello, brick, mosaic, Scotch, Smyrna · no account, no ads, no data collected.
 
 ## Screenshots
 
