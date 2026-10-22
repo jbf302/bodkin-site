@@ -13,7 +13,6 @@ defaults:
 twitter:
   card: summary_large_image
 header_pages:
-  - whats-new.md
   - support.md
   - press.md
   - privacy.md
