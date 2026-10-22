@@ -20,3 +20,6 @@
 .kit img{width:100%;border-radius:10px;display:block}
 .kit figcaption{font-size:.85rem;color:var(--muted);margin-top:.3rem}
 @media(max-width:700px){.hero{grid-template-columns:1fr;padding:1.5rem}.hero h1{font-size:2rem}}
+.gallery-title{font-size:1.2rem;margin:0 0 .6rem}
+.gallery-phone a{flex-basis:min(220px,55%)}
+.kit.phone{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
