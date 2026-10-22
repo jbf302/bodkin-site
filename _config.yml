@@ -1,6 +1,8 @@
 title: Bodkin
 theme: minima
-description: Bodkin is a needlepoint app for iPad.
+description: Bodkin is a needlepoint app for iPhone and iPad.
+# Set to the App Store link once Bodkin is live; the home page badge becomes a download link.
+app_store_url:
 plugins:
   - jekyll-seo-tag
 defaults:
@@ -10,3 +12,8 @@ defaults:
       image: /assets/link-card.png
 twitter:
   card: summary_large_image
+header_pages:
+  - whats-new.md
+  - support.md
+  - press.md
+  - privacy.md
