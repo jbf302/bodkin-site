@@ -7,9 +7,11 @@ Questions, bugs, or ideas: [bodkin.support@gmail.com](mailto:bodkin.support@gmai
 
 ## Projects and backup
 
-**Where are my projects?** On your iPhone or iPad. Bodkin has no account and no server, so nothing is stored online.
+**Where are my projects?** On your iPhone or iPad. Bodkin has no account and no server, so nothing is stored online. Open the Files app → On My iPhone (or On My iPad) → Bodkin to see them: each canvas is a `.bodkin` file you can copy somewhere safe, rename or delete.
 
-**How do I back them up?** Your projects are part of your device's iCloud or computer backup, like other app data.
+**How do I back them up?** Copy the `.bodkin` files from the Files app. Your projects are also part of your device's iCloud or computer backup, like other app data.
+
+**Send a canvas to someone:** on the home screen, touch and hold the canvas, then tap Share. They can open the `.bodkin` file in Bodkin on their iPhone or iPad.
 
 **Moving to a new iPhone or iPad?** Restore the new device from a backup of the old one and your projects come with it. Purchases come back with Restore Purchases (below).
 
