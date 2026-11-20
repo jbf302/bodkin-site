@@ -24,7 +24,7 @@ Questions, bugs, or ideas: [bodkin.support@gmail.com](mailto:bodkin.support@gmai
 - **Bodkin Pro:** unlimited projects from photos, chart pictures and blank canvas or Aida, as many imported chart files as you like, Design mode on any design, names and dates lettered onto any design, a choice of stitched app icons, and every Stitch Pack stitch.
 - **Stitch Pack:** decorative and specialty stitches for both crafts: Bargello, Brick, Mosaic, Scotch, Smyrna, Rice, Slanted Gobelin, Milanese, Cashmere and Hungarian for needlepoint, and Double Cross, Algerian Eye, Rhodes, Long-Arm Cross and Upright Cross for both. Beads and French knots are free.
 
-**Restore a purchase:** tap the yellow Bodkin Pro button (a crown) at the top right of the home screen, or any stitch with a lock, then tap Restore Purchases. Use the same Apple Account you bought with.
+**Restore a purchase:** tap the yellow Bodkin Pro button (a crown) at the top right of the home screen, or any locked stitch under More Stitches (the four squares at the bottom of the stitch rail), then tap Restore Purchases. Use the same Apple Account you bought with.
 
 **Family Sharing:** both purchases work with Family Sharing.
 
