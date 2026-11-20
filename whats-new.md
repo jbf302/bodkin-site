@@ -31,6 +31,7 @@ Wool, floss, metallics, canvas and Aida were redrawn to look like real stitching
 
 ### And
 - A new stitched app icon, and more icons to choose from with Bodkin Pro.
+- A shorter tool rail: the everyday stitches stay on it, the decorative and specialty stitches open from More Stitches with their names, and the last one you used stays on the rail.
 - Sounds, Haptics, Replay Tips and Help & Support are in the home screen's settings.
 - New designs: Apple a Day, a chart rounded off with ¾ stitches, plus a Martini, Tinned Sardines, a Lemon, Cherries, a Fox and an Owl.
 - Fixed a crash on Mac when making a canvas from a photo.
