@@ -2,17 +2,17 @@
 layout: page
 title: Bodkin Press Kit
 permalink: /press/
-description: Screenshots, videos and descriptions for writing about Bodkin, a needlepoint app for iPhone and iPad.
+description: Screenshots, videos and descriptions for writing about Bodkin, a needlepoint and cross-stitch app for iPhone and iPad.
 ---
 Feel free to use these when writing about Bodkin. Contact: [bodkin.support@gmail.com](mailto:bodkin.support@gmail.com)
 
 ## About
 
-**One line:** Bodkin is a needlepoint app for iPhone and iPad.
+**One line:** Bodkin is a needlepoint and cross-stitch app for iPhone and iPad.
 
-**Short:** Bodkin lets you stitch painted canvases, photos or your own designs with a fingertip or Apple Pencil. Stitches look like real wool, colors match actual DMC threads, and when you finish you can get a shopping list and printable chart to stitch the design for real. It has no accounts and collects no data.
+**Short:** Bodkin lets you stitch painted canvases, cross-stitch charts, photos or your own designs with a fingertip or Apple Pencil. Needlepoint looks like real wool on canvas and cross-stitch like floss on Aida, colors match real Appleton, Persian and DMC threads, you can track a real project square by square, and when you finish you can get a shopping list and printable chart to stitch the design for real. It has no accounts and collects no data.
 
-**Facts:** iPhone and iPad (including iPhone Duo) · free, with two optional one-time purchases: Bodkin Pro ($14.99 US) and the Stitch Pack ($4.99 US), no subscription · a growing collection of free painted canvases · 10, 13 and 18 mesh · stitch types: tent, cross, gobelin, French knot, bargello, brick, mosaic, Scotch, Smyrna · no account, no ads, no data collected.
+**Facts:** iPhone and iPad (including iPhone Duo) · free, with two optional one-time purchases: Bodkin Pro ($14.99 US) and the Stitch Pack ($4.99 US), no subscription · a growing collection of free painted canvases · needlepoint canvas from 5 to 40 mesh and 14, 16 and 18 count Aida · needlepoint stitches: tent, cross, gobelin, French knot, bead, bargello, brick, mosaic, Scotch, Smyrna, rice, slanted gobelin, Milanese, cashmere, Hungarian · cross-stitch stitches: full and half cross, ¾ and ¼ stitches, backstitch, French knot, bead · specialty stitches for both: double cross, Algerian eye, Rhodes, long-arm cross, upright cross · imports .oxs chart files · no account, no ads, no data collected.
 
 ## Screenshots
 

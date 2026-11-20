@@ -5,11 +5,11 @@ permalink: /privacy/
 ---
 Last updated: November 4, 2026
 
-Bodkin is a needlepoint app for iPhone and iPad. It has no accounts and doesn't collect, track, or sell your data.
+Bodkin is a needlepoint and cross-stitch app for iPhone and iPad. It has no accounts and doesn't collect, track, or sell your data.
 
 ## What stays on your device
 - Your projects, stash, and settings are stored on your iPhone or iPad only. Your projects also show up in the Files app so you can back them up, and they're included in your device's iCloud or computer backup, like other app data. A canvas you share leaves your device only where you send it.
-- Photos or chart images you choose to convert are processed on your device and are never uploaded. Bodkin only sees the pictures you pick.
+- Photos or chart images you choose to convert are processed on your device and are never uploaded. Bodkin only sees the pictures you pick. Chart files you import are read on your device too, and kept inside the app.
 - When you choose Save on a finished piece or a stitch replay, Bodkin asks permission to add it to your Photos library. It can add to Photos but can't read your library.
 
 ## What we collect
